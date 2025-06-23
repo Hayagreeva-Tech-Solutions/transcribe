@@ -1,0 +1,200 @@
+[
+  {
+    "caption_start": 0.7399999999999998,
+    "caption_end": 5.82,
+    "original": "heres how to update drivers on your poweredge server using a dell update package or",
+    "normalized": "heres how to update drivers on your poweredge server using a dell update package or",
+    "transcribed": "heres how to update drivers on your poweredge server using a dell update package or dup dot go to dell dot com slash support and enter your systems",
+    "accuracy": 100.0,
+    "spoken_start": 0.7399999999999998,
+    "spoken_end": 5.82,
+    "offset": 0.0,
+    "status": "PERFECT",
+    "comparison_type": "Whisper Transcription Only",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 13
+    }
+  },
+  {
+    "caption_start": 5.82,
+    "caption_end": 10.86,
+    "original": "dup dot go to dell dot com slash support and enter your systems",
+    "normalized": "dup dot go to dell dot com slash support and enter your systems",
+    "transcribed": "heres how to update drivers on your poweredge server using a dell update package or dup dot go to dell dot com slash support and enter your systems service tag or click browse all products to select it manually dot select",
+    "accuracy": 100.0,
+    "spoken_start": 0.7399999999999998,
+    "spoken_end": 5.82,
+    "offset": -5.08,
+    "status": "PERFECT",
+    "comparison_type": "Whisper Transcription Only",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 28
+    }
+  },
+  {
+    "caption_start": 10.86,
+    "caption_end": 18.62,
+    "original": "service tag or click browse all products to select it manually dot select",
+    "normalized": "service tag or click browse all products to select it manually dot select",
+    "transcribed": "dup dot go to dell dot com slash support and enter your systems service tag or click browse all products to select it manually dot select drivers and downloads and choose the os you",
+    "accuracy": 100.0,
+    "spoken_start": 5.82,
+    "spoken_end": 10.86,
+    "offset": -5.039999999999999,
+    "status": "PERFECT",
+    "comparison_type": "Whisper Transcription Only",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 21
+    }
+  },
+  {
+    "caption_start": 18.62,
+    "caption_end": 23.62,
+    "original": "drivers and downloads and choose the os you",
+    "normalized": "drivers and downloads and choose the os you",
+    "transcribed": "service tag or click browse all products to select it manually dot select drivers and downloads and choose the os you have installed dot under download type select",
+    "accuracy": 100.0,
+    "spoken_start": 10.86,
+    "spoken_end": 18.62,
+    "offset": -7.760000000000002,
+    "status": "PERFECT",
+    "comparison_type": "Whisper Transcription Only",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 20
+    }
+  },
+  {
+    "caption_start": 23.62,
+    "caption_end": 29.02,
+    "original": "have installed dot under download type select",
+    "normalized": "have installed dot under download type select",
+    "transcribed": "drivers and downloads and choose the os you have installed dot under download type select driver then under category select the type of driver you need dot expand",
+    "accuracy": 100.0,
+    "spoken_start": 18.62,
+    "spoken_end": 23.62,
+    "offset": -5.0,
+    "status": "PERFECT",
+    "comparison_type": "Whisper Transcription Only",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 21
+    }
+  },
+  {
+    "caption_start": 29.02,
+    "caption_end": 37.96,
+    "original": "driver then under category select the type of driver you need dot expand",
+    "normalized": "driver then under category select the type of driver you need dot expand",
+    "transcribed": "have installed dot under download type select driver then under category select the type of driver you need dot expand the list of drivers for more details and optionally click the view full driver details link dot",
+    "accuracy": 100.0,
+    "spoken_start": 23.62,
+    "spoken_end": 29.02,
+    "offset": -5.399999999999999,
+    "status": "PERFECT",
+    "comparison_type": "Whisper Transcription Only",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 24
+    }
+  },
+  {
+    "caption_start": 37.96,
+    "caption_end": 42.98,
+    "original": "the list of drivers for more details and optionally click the view full driver details link dot",
+    "normalized": "the list of drivers for more details and optionally click the view full driver details link dot",
+    "transcribed": "driver then under category select the type of driver you need dot expand the list of drivers for more details and optionally click the view full driver details link dot click download to save the dup dot for",
+    "accuracy": 100.0,
+    "spoken_start": 29.02,
+    "spoken_end": 37.96,
+    "offset": -8.940000000000001,
+    "status": "PERFECT",
+    "comparison_type": "Whisper Transcription Only",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 21
+    }
+  },
+  {
+    "caption_start": 42.98,
+    "caption_end": 51.6,
+    "original": "click download to save the dup dot for",
+    "normalized": "click download to save the dup dot for",
+    "transcribed": "the list of drivers for more details and optionally click the view full driver details link dot click download to save the dup dot for windows right dash click the dup and select download dot select run as administrator dot review",
+    "accuracy": 100.0,
+    "spoken_start": 37.96,
+    "spoken_end": 42.98,
+    "offset": -5.019999999999996,
+    "status": "PERFECT",
+    "comparison_type": "Whisper Transcription Only",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 33
+    }
+  },
+  {
+    "caption_start": 51.6,
+    "caption_end": 57.66,
+    "original": "windows right dash click the dup and select download dot select run as administrator dot review",
+    "normalized": "windows right dash click the dup and select download dot select run as administrator dot review",
+    "transcribed": "click download to save the dup dot for windows right dash click the dup and select download dot select run as administrator dot review the release notes then click install to start the update dot thanks",
+    "accuracy": 100.0,
+    "spoken_start": 42.98,
+    "spoken_end": 51.6,
+    "offset": -8.620000000000005,
+    "status": "PERFECT",
+    "comparison_type": "Whisper Transcription Only",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 20
+    }
+  },
+  {
+    "caption_start": 57.66,
+    "caption_end": 63.84,
+    "original": "the release notes then click install to start the update dot thanks",
+    "normalized": "the release notes then click install to start the update dot thanks",
+    "transcribed": "windows right dash click the dup and select download dot select run as administrator dot review the release notes then click install to start the update dot thanks for watching dot",
+    "accuracy": 100.0,
+    "spoken_start": 51.6,
+    "spoken_end": 57.66,
+    "offset": -6.059999999999995,
+    "status": "PERFECT",
+    "comparison_type": "Whisper Transcription Only",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 19
+    }
+  },
+  {
+    "caption_start": 63.84,
+    "caption_end": 64.2,
+    "original": "for watching dot",
+    "normalized": "for watching dot",
+    "transcribed": "the release notes then click install to start the update dot thanks for watching dot",
+    "accuracy": 100.0,
+    "spoken_start": 57.66,
+    "spoken_end": 63.84,
+    "offset": -6.180000000000007,
+    "status": "PERFECT",
+    "comparison_type": "Whisper Transcription Only",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 12
+    }
+  }
+]
