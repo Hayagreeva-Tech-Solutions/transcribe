@@ -1,272 +1,434 @@
 [
   {
-    "caption_start": 0.2,
-    "caption_end": 5.16,
-    "original": "Hello, I am a domain engineer in the&nbsp;\nSystems Management space here at Dell,&nbsp;&nbsp;",
-    "normalized": "hello i am a domain engineer in theandnbsp systems management space here at dellandnbsp andnbsp",
+    "caption_start": 0.24,
+    "caption_end": 5.28,
+    "original": "Hello, I am a domain engineer in\nthe systems management space here at Dell.",
+    "normalized": "hello i am a domain engineer in the systems management space here at dell dot",
     "transcribed": "hello i am a domain engineer in the systems management space here at dell dot today",
-    "accuracy": 80.0,
+    "accuracy": 100.0,
     "spoken_start": 0.0,
     "spoken_end": 5.38,
-    "offset": -0.2,
-    "status": "FAIR",
-    "comparison_type": "Manual Captions vs Whisper Transcription",
+    "offset": -0.24,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
     "errors": {
-      "substitutions": 3,
+      "substitutions": 0,
       "deletions": 0,
       "insertions": 1
     }
   },
   {
-    "caption_start": 5.16,
-    "caption_end": 9.24,
-    "original": "and today we\u00e2\u0080\u0099ll be covering the default&nbsp;\ndeployment of OpenManage Enterprise on&nbsp;&nbsp;",
-    "normalized": "and today we ll be covering the defaultandnbsp deployment of openmanage enterprise onandnbsp andnbsp",
+    "caption_start": 5.28,
+    "caption_end": 9.477,
+    "original": "Today we'll be covering the default\ndeployment of OpenManage Enterprise on",
+    "normalized": "today be covering the default deployment of openmanage enterprise on",
     "transcribed": "hello i am a domain engineer in the systems management space here at dell dot today be covering the default deployment of openmanage enterprise on vmware dot youll",
-    "accuracy": 50.0,
+    "accuracy": 100.0,
     "spoken_start": 0.0,
     "spoken_end": 5.38,
-    "offset": -5.16,
-    "status": "POOR",
-    "comparison_type": "Manual Captions vs Whisper Transcription",
+    "offset": -5.28,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
     "errors": {
-      "substitutions": 7,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 18
+    }
+  },
+  {
+    "caption_start": 9.477,
+    "caption_end": 10.96,
+    "original": "VMware.",
+    "normalized": "vmware dot",
+    "transcribed": "be covering the default deployment of openmanage enterprise on vmware dot youll",
+    "accuracy": 100.0,
+    "spoken_start": 5.38,
+    "spoken_end": 11.24,
+    "offset": -4.097,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 10
+    }
+  },
+  {
+    "caption_start": 10.96,
+    "caption_end": 16.571,
+    "original": "You'll need to first download and\nextract the OVF from our support site.",
+    "normalized": "youll need to first download and extract the ovf from our support site dot",
+    "transcribed": "be covering the default deployment of openmanage enterprise on vmware dot youll need to first download and extract the ovf from our support site dot in",
+    "accuracy": 100.0,
+    "spoken_start": 5.38,
+    "spoken_end": 11.24,
+    "offset": -5.580000000000001,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 12
+    }
+  },
+  {
+    "caption_start": 16.571,
+    "caption_end": 17.545,
+    "original": "In vCenter,",
+    "normalized": "in vcenter",
+    "transcribed": "need to first download and extract the ovf from our support site dot in",
+    "accuracy": 50.0,
+    "spoken_start": 11.24,
+    "spoken_end": 18.12,
+    "offset": -5.331000000000001,
+    "status": "POOR",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 1,
+      "insertions": 13
+    }
+  },
+  {
+    "caption_start": 17.545,
+    "caption_end": 23.44,
+    "original": "we will deploy the template from\nthe extracted contents of our download.",
+    "normalized": "we will deploy the template from the extracted contents of our download dot",
+    "transcribed": "need to first download and extract the ovf from our support site dot in vcenter we will deploy the template from the extracted contents of our download dot i",
+    "accuracy": 100.0,
+    "spoken_start": 11.24,
+    "spoken_end": 18.12,
+    "offset": -6.3050000000000015,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 16
+    }
+  },
+  {
+    "caption_start": 23.44,
+    "caption_end": 27.06,
+    "original": "I have already downloaded the file and\nextracted.",
+    "normalized": "i have already downloaded the file and extracted dot",
+    "transcribed": "vcenter we will deploy the template from the extracted contents of our download dot i have already downloaded the file and extracted dot lets get started dot and",
+    "accuracy": 100.0,
+    "spoken_start": 18.12,
+    "spoken_end": 23.74,
+    "offset": -5.32,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 19
+    }
+  },
+  {
+    "caption_start": 27.06,
+    "caption_end": 28.85,
+    "original": "Let's get started.",
+    "normalized": "lets get started dot",
+    "transcribed": "have already downloaded the file and extracted dot lets get started dot and",
+    "accuracy": 100.0,
+    "spoken_start": 23.74,
+    "spoken_end": 30.44,
+    "offset": -3.3200000000000003,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 9
+    }
+  },
+  {
+    "caption_start": 28.85,
+    "caption_end": 30.0,
+    "original": "And we will select Create or\nRegister a Virtual Machine,",
+    "normalized": "and we will select create or register a virtual machine",
+    "transcribed": "and we will select create a register of virtual machine",
+    "accuracy": 80.0,
+    "spoken_start": 23.74,
+    "spoken_end": 30.44,
+    "offset": -5.110000000000003,
+    "status": "FAIR",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 2,
+      "deletions": 0,
+      "insertions": 0
+    }
+  },
+  {
+    "caption_start": 30.0,
+    "caption_end": 35.378,
+    "original": "And we will select Create or\nRegister a Virtual Machine,",
+    "normalized": "and we will select create or register a virtual machine",
+    "transcribed": "have already downloaded the file and extracted dot lets get started dot and we will select create a register of virtual machine deploy",
+    "accuracy": 80.0,
+    "spoken_start": 23.74,
+    "spoken_end": 30.44,
+    "offset": -6.260000000000002,
+    "status": "FAIR",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 2,
+      "deletions": 0,
+      "insertions": 13
+    }
+  },
+  {
+    "caption_start": 35.378,
+    "caption_end": 40.002,
+    "original": "Deploy the machine from an OVF and Next.",
+    "normalized": "deploy the machine from an ovf and next dot",
+    "transcribed": "we will select create a register of virtual machine deploy the machine from an ovf and next dot we",
+    "accuracy": 100.0,
+    "spoken_start": 30.44,
+    "spoken_end": 35.78,
+    "offset": -4.937999999999999,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 10
+    }
+  },
+  {
+    "caption_start": 40.002,
+    "caption_end": 46.5,
+    "original": "We'll give it a unique name,\nmost commonly Dell OME.",
+    "normalized": "give it a unique name most commonly dell ome dot",
+    "transcribed": "the machine from an ovf and next dot we will give it a unique name most commonly dell ome dot select these files from our extracted contents dot and",
+    "accuracy": 100.0,
+    "spoken_start": 35.78,
+    "spoken_end": 40.84,
+    "offset": -4.222000000000001,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 19
+    }
+  },
+  {
+    "caption_start": 46.5,
+    "caption_end": 51.633,
+    "original": "We'll select these files from our",
+    "normalized": "select these files from our",
+    "transcribed": "select these files from our extracted contents dot and",
+    "accuracy": 100.0,
+    "spoken_start": 45.84,
+    "spoken_end": 56.839999999999996,
+    "offset": -0.6599999999999966,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 4
+    }
+  },
+  {
+    "caption_start": 51.633,
+    "caption_end": 58.19,
+    "original": "extracted contents and follow the wizard.",
+    "normalized": "extracted contents and follow the wizard dot",
+    "transcribed": "select these files from our extracted contents dot and follow the wizard dot leave the default",
+    "accuracy": 100.0,
+    "spoken_start": 45.84,
+    "spoken_end": 56.839999999999996,
+    "offset": -5.792999999999999,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 9
+    }
+  },
+  {
+    "caption_start": 61.23,
+    "caption_end": 64.685,
+    "original": "Leave the default settings,",
+    "normalized": "leave the default settings",
+    "transcribed": "follow the wizard dot leave the default settings then provisioned and",
+    "accuracy": 100.0,
+    "spoken_start": 56.839999999999996,
+    "spoken_end": 61.96,
+    "offset": -4.390000000000001,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 7
+    }
+  },
+  {
+    "caption_start": 64.685,
+    "caption_end": 69.39,
+    "original": "thin provisioned, and select Finish.",
+    "normalized": "thin provisioned and select finish dot",
+    "transcribed": "settings then provisioned and select finish dot okay",
+    "accuracy": 83.33333333333334,
+    "spoken_start": 61.96,
+    "spoken_end": 68.28,
+    "offset": -2.7250000000000014,
+    "status": "FAIR",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 1,
+      "deletions": 0,
+      "insertions": 2
+    }
+  },
+  {
+    "caption_start": 73.23,
+    "caption_end": 76.194,
+    "original": "Okay, once completed on\nthe Recent Tasks menu,",
+    "normalized": "okay once completed on the recent tasks menu",
+    "transcribed": "select finish dot okay once completed on the recent tasks menu youre now ready to power on the",
+    "accuracy": 100.0,
+    "spoken_start": 68.28,
+    "spoken_end": 73.56,
+    "offset": -4.950000000000003,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 10
+    }
+  },
+  {
+    "caption_start": 76.194,
+    "caption_end": 79.92,
+    "original": "you're now ready to power\non the virtual machines.",
+    "normalized": "youre now ready to power on the virtual machines dot",
+    "transcribed": "once completed on the recent tasks menu youre now ready to power on the virtual machine dot go to virtual machines select the virtual",
+    "accuracy": 90.0,
+    "spoken_start": 73.56,
+    "spoken_end": 78.56,
+    "offset": -2.6340000000000003,
+    "status": "GOOD",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 1,
       "deletions": 0,
       "insertions": 14
     }
   },
   {
-    "caption_start": 9.24,
-    "caption_end": 18.0,
-    "original": "VMware. You\u00e2\u0080\u0099ll need to first download and&nbsp;\nextract the OVF from our support site.",
-    "normalized": "vmware dot you ll need to first download andandnbsp extract the ovf from our support site dot",
-    "transcribed": "be covering the default deployment of openmanage enterprise on vmware dot youll need to first download and extract the ovf from our support site dot in",
-    "accuracy": 82.35294117647058,
-    "spoken_start": 5.38,
-    "spoken_end": 11.24,
-    "offset": -3.8600000000000003,
-    "status": "FAIR",
-    "comparison_type": "Manual Captions vs Whisper Transcription",
-    "errors": {
-      "substitutions": 2,
-      "deletions": 1,
-      "insertions": 10
-    }
-  },
-  {
-    "caption_start": 18.0,
-    "caption_end": 24.28,
-    "original": "In vCenter, we will deploy the template from the&nbsp;\nextracted contents of our download. I have already&nbsp;&nbsp;",
-    "normalized": "in vcenter we will deploy the template from theandnbsp extracted contents of our download dot i have alreadyandnbsp andnbsp",
-    "transcribed": "need to first download and extract the ovf from our support site dot in vcenter we will deploy the template from the extracted contents of our download dot i have already downloaded the file and extracted dot lets get started dot and",
-    "accuracy": 84.21052631578947,
-    "spoken_start": 11.24,
-    "spoken_end": 18.12,
-    "offset": -6.76,
-    "status": "FAIR",
-    "comparison_type": "Manual Captions vs Whisper Transcription",
-    "errors": {
-      "substitutions": 3,
-      "deletions": 0,
-      "insertions": 23
-    }
-  },
-  {
-    "caption_start": 24.28,
-    "caption_end": 30.0,
-    "original": "downloaded the file and extracted it. Let\u00e2\u0080\u0099s&nbsp;\nget started. We will select \u00e2\u0080\u0098Create/Register&nbsp;&nbsp;",
-    "normalized": "downloaded the file and extracted it dot let sandnbsp get started dot we will select create slash registerandnbsp andnbsp",
-    "transcribed": "dot i have already downloaded the file and extracted dot lets get started dot and we will select create",
-    "accuracy": 68.42105263157895,
-    "spoken_start": 23.74,
-    "spoken_end": 30.44,
-    "offset": -0.5400000000000027,
-    "status": "POOR",
-    "comparison_type": "Manual Captions vs Whisper Transcription",
-    "errors": {
-      "substitutions": 1,
-      "deletions": 5,
-      "insertions": 5
-    }
-  },
-  {
-    "caption_start": 30.0,
-    "caption_end": 33.36,
-    "original": "downloaded the file and extracted it. Let\u00e2\u0080\u0099s&nbsp;\nget started. We will select \u00e2\u0080\u0098Create/Register&nbsp;&nbsp;",
-    "normalized": "downloaded the file and extracted it dot let sandnbsp get started dot we will select create slash registerandnbsp andnbsp",
-    "transcribed": "have already downloaded the file and extracted dot lets get started dot and we will select create a register of virtual machine deploy",
-    "accuracy": 68.42105263157895,
-    "spoken_start": 23.74,
-    "spoken_end": 30.44,
-    "offset": -6.260000000000002,
-    "status": "POOR",
-    "comparison_type": "Manual Captions vs Whisper Transcription",
-    "errors": {
-      "substitutions": 4,
-      "deletions": 2,
-      "insertions": 6
-    }
-  },
-  {
-    "caption_start": 33.36,
-    "caption_end": 43.16,
-    "original": "a Virtual Machine,\u00e2\u0080\u0099 'Deploy the machine from&nbsp;\nan OVF', and Next'. We\u00e2\u0080\u0099ll give it a unique name,&nbsp;&nbsp;",
-    "normalized": "a virtual machine deploy the machine fromandnbsp an ovf and next dot we ll give it a unique nameandnbsp andnbsp",
-    "transcribed": "we will select create a register of virtual machine deploy the machine from an ovf and next dot we will give it a unique name most commonly dell ome dot",
-    "accuracy": 80.0,
-    "spoken_start": 30.44,
-    "spoken_end": 35.78,
-    "offset": -2.919999999999998,
-    "status": "FAIR",
-    "comparison_type": "Manual Captions vs Whisper Transcription",
-    "errors": {
-      "substitutions": 4,
-      "deletions": 0,
-      "insertions": 10
-    }
-  },
-  {
-    "caption_start": 43.16,
-    "caption_end": 59.92,
-    "original": "most commonly \u00e2\u0080\u0098Dell OME.\u00e2\u0080\u0099 We\u00e2\u0080\u0099ll select these files&nbsp;\nfrom our extracted contents and follow the wizard.",
-    "normalized": "most commonly dell ome dot we ll select these filesandnbsp from our extracted contents and follow the wizard dot",
-    "transcribed": "will give it a unique name most commonly dell ome dot select these files from our extracted contents dot and follow the wizard dot leave the default",
-    "accuracy": 84.21052631578947,
-    "spoken_start": 40.84,
-    "spoken_end": 45.84,
-    "offset": -2.319999999999993,
-    "status": "FAIR",
-    "comparison_type": "Manual Captions vs Whisper Transcription",
-    "errors": {
-      "substitutions": 1,
-      "deletions": 2,
-      "insertions": 10
-    }
-  },
-  {
-    "caption_start": 61.2,
-    "caption_end": 73.72,
-    "original": "Leave the default settings, thin&nbsp;\nprovisioned and select \u00e2\u0080\u0098Finish.\u00e2\u0080\u0099 Okay,&nbsp;&nbsp;",
-    "normalized": "leave the default settings thinandnbsp provisioned and select finish dot okayandnbsp andnbsp",
-    "transcribed": "follow the wizard dot leave the default settings then provisioned and select finish dot okay once completed on the recent tasks menu youre now ready to power on the",
-    "accuracy": 75.0,
-    "spoken_start": 56.839999999999996,
-    "spoken_end": 61.96,
-    "offset": -4.3600000000000065,
-    "status": "POOR",
-    "comparison_type": "Manual Captions vs Whisper Transcription",
-    "errors": {
-      "substitutions": 3,
-      "deletions": 0,
-      "insertions": 17
-    }
-  },
-  {
-    "caption_start": 73.72,
-    "caption_end": 79.96,
-    "original": "once completed on the 'Recent Tasks' menu, you\u00e2\u0080\u0099re&nbsp;\nnow ready to power on the virtual machines. So,&nbsp;&nbsp;",
-    "normalized": "once completed on the recent tasks menu you reandnbsp now ready to power on the virtual machines dot soandnbsp andnbsp",
-    "transcribed": "once completed on the recent tasks menu youre now ready to power on the virtual machine dot go to virtual machines select the virtual",
-    "accuracy": 75.0,
-    "spoken_start": 73.56,
-    "spoken_end": 78.56,
-    "offset": -0.1599999999999966,
-    "status": "POOR",
-    "comparison_type": "Manual Captions vs Whisper Transcription",
-    "errors": {
-      "substitutions": 4,
-      "deletions": 1,
-      "insertions": 5
-    }
-  },
-  {
-    "caption_start": 79.96,
-    "caption_end": 87.88,
-    "original": "we\u00e2\u0080\u0099ll go to \u00e2\u0080\u0098Virtual Machines,\u00e2\u0080\u0099 select&nbsp;\nthe virtual machine, and 'Power On'.",
-    "normalized": "we ll go to virtual machines selectandnbsp the virtual machine and power on dot",
+    "caption_start": 79.92,
+    "caption_end": 85.84,
+    "original": "So we'll go to Virtual Machines,\nselect the virtual machine and power on.",
+    "normalized": "go to virtual machines select the virtual machine and power on dot",
     "transcribed": "virtual machine dot go to virtual machines select the virtual machine and power on dot all right that completes the",
-    "accuracy": 78.57142857142857,
+    "accuracy": 100.0,
     "spoken_start": 78.56,
     "spoken_end": 83.74,
-    "offset": -1.3999999999999915,
-    "status": "POOR",
-    "comparison_type": "Manual Captions vs Whisper Transcription",
+    "offset": -1.3599999999999994,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
     "errors": {
-      "substitutions": 3,
+      "substitutions": 0,
       "deletions": 0,
-      "insertions": 6
+      "insertions": 8
     }
   },
   {
-    "caption_start": 87.88,
-    "caption_end": 90.0,
-    "original": "Alright, that completes the installation of&nbsp;\nour default install of OpenManage Enterprise,&nbsp;&nbsp;",
-    "normalized": "alright that completes the installation ofandnbsp our default install of openmanage enterpriseandnbsp andnbsp",
-    "transcribed": "machine and power on dot all right that completes the installation dot and youre now ready",
-    "accuracy": 30.76923076923077,
+    "caption_start": 87.68,
+    "caption_end": 88.365,
+    "original": "All right,",
+    "normalized": "all right",
+    "transcribed": "machine and power on dot all right that completes the",
+    "accuracy": 100.0,
     "spoken_start": 83.74,
     "spoken_end": 89.04,
-    "offset": -4.140000000000001,
-    "status": "POOR",
-    "comparison_type": "Manual Captions vs Whisper Transcription",
+    "offset": -3.940000000000012,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
     "errors": {
-      "substitutions": 6,
-      "deletions": 3,
-      "insertions": 6
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 8
     }
   },
   {
-    "caption_start": 90.0,
-    "caption_end": 93.36,
-    "original": "Alright, that completes the installation of&nbsp;\nour default install of OpenManage Enterprise,&nbsp;&nbsp;",
-    "normalized": "alright that completes the installation ofandnbsp our default install of openmanage enterpriseandnbsp andnbsp",
-    "transcribed": "dot today be covering the default deployment of openmanage enterprise on vmware dot",
-    "accuracy": 30.76923076923077,
-    "spoken_start": 89.04,
-    "spoken_end": 94.3,
-    "offset": -0.9599999999999937,
+    "caption_start": 88.365,
+    "caption_end": 90.0,
+    "original": "that completes the installation of our\ndefault install of OpenManage Enterprise.",
+    "normalized": "that completes the installation of our default install of openmanage enterprise dot",
+    "transcribed": "today be covering the default deployment of openmanage enterprise on vmware dot",
+    "accuracy": 50.0,
+    "spoken_start": 83.74,
+    "spoken_end": 89.04,
+    "offset": -4.625,
     "status": "POOR",
-    "comparison_type": "Manual Captions vs Whisper Transcription",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
     "errors": {
-      "substitutions": 6,
+      "substitutions": 3,
       "deletions": 3,
       "insertions": 3
     }
   },
   {
-    "caption_start": 93.36,
-    "caption_end": 96.92,
-    "original": "and you\u00e2\u0080\u0099re now ready to configure your OpenManage&nbsp;&nbsp;",
-    "normalized": "and you re now ready to configure your openmanageandnbsp andnbsp",
-    "transcribed": "installation dot and youre now ready to configure your openmanage enterprise appliance dot thanks for watching and",
-    "accuracy": 60.0,
+    "caption_start": 90.0,
+    "caption_end": 93.24,
+    "original": "that completes the installation of our\ndefault install of OpenManage Enterprise.",
+    "normalized": "that completes the installation of our default install of openmanage enterprise dot",
+    "transcribed": "today be covering the default deployment of openmanage enterprise on vmware dot",
+    "accuracy": 50.0,
     "spoken_start": 89.04,
     "spoken_end": 94.3,
-    "offset": -4.319999999999993,
+    "offset": -0.9599999999999937,
     "status": "POOR",
-    "comparison_type": "Manual Captions vs Whisper Transcription",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
     "errors": {
       "substitutions": 3,
-      "deletions": 1,
-      "insertions": 8
+      "deletions": 3,
+      "insertions": 3
     }
   },
   {
-    "caption_start": 96.92,
-    "caption_end": 118.32,
-    "original": "Enterprise appliance. Thanks for&nbsp;\nwatching, and have a great day.",
-    "normalized": "enterprise appliance dot thanks forandnbsp watching and have a great day dot",
+    "caption_start": 93.24,
+    "caption_end": 98.48,
+    "original": "And you're now ready to configure\nyour OpenManage Enterprise appliance.",
+    "normalized": "and youre now ready to configure your openmanage enterprise appliance dot",
+    "transcribed": "installation dot and youre now ready to configure your openmanage enterprise appliance dot thanks for watching and",
+    "accuracy": 100.0,
+    "spoken_start": 89.04,
+    "spoken_end": 94.3,
+    "offset": -4.199999999999989,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
+    "errors": {
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 6
+    }
+  },
+  {
+    "caption_start": 98.48,
+    "caption_end": 100.32,
+    "original": "Thanks for watching and have a great day.",
+    "normalized": "thanks for watching and have a great day dot",
     "transcribed": "to configure your openmanage enterprise appliance dot thanks for watching and have a great day dot",
-    "accuracy": 91.66666666666666,
+    "accuracy": 100.0,
     "spoken_start": 94.3,
     "spoken_end": 99.4,
-    "offset": -2.6200000000000045,
-    "status": "GOOD",
-    "comparison_type": "Manual Captions vs Whisper Transcription",
+    "offset": -4.180000000000007,
+    "status": "PERFECT",
+    "comparison_type": "Manual Captions vs Whisper Transcription (en)",
     "errors": {
-      "substitutions": 1,
+      "substitutions": 0,
       "deletions": 0,
-      "insertions": 4
+      "insertions": 7
     }
   }
 ]
